@@ -1,0 +1,15 @@
+VPN Access and Setup
+
+To connect remotely to internal systems, use the company VPN.
+
+Steps:
+1. Install the VPN client (Windows/Mac/Linux).
+2. Use your corporate credentials and MFA to authenticate.
+3. If you are blocked, try resetting via the password recovery process or contact IT Support.
+
+Troubleshooting:
+- If remote work resources are inaccessible, confirm VPN is connected and your firewall allows the VPN client.
+- If you are trying to "access internal tools from home", this document describes the VPN setup and remote access steps.
+
+Security reminder:
+- Do not share VPN credentials. Use company-managed devices where possible.

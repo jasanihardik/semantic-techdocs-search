@@ -1,0 +1,22 @@
+Title: New Hire Onboarding Guide
+
+Welcome new employees! This guide covers the initial steps to get productive.
+
+First-day checklist:
+- Complete HR paperwork.
+- Set up your company email and calendar.
+- Attend orientation session.
+- Get access to internal wikis and documentation portals.
+
+Account setup & passwords:
+- Create a strong password on first login.
+- Enroll in multi-factor authentication (MFA).
+- Read the Password Recovery Process for steps if you lock out of your account.
+
+Training:
+- Mandatory security training within first week.
+- Product training schedule available in the Learning Portal.
+
+Contacts:
+- IT Support: it-support@company.example
+- HR: hr@company.example

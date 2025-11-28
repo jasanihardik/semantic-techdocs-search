@@ -1,0 +1,21 @@
+__pycache__/
+
+
+# Virtualenvs
+venv/
+env/
+.venv/
+venv*/
+ENV/
+env.bak/
+.Python
+
+
+
+# Python tooling caches
+.coverage
+.tox/
+.cache/
+.pytest_cache/
+.mypy_cache/
+htmlcov/
